@@ -33,7 +33,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shresthacodes&langs_count=8"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shresthacodes&layout=compact"/>
   </td>
 </tr>
 </table>
