@@ -23,12 +23,10 @@
 <!--git stats-->
 
 <table align="center">
-<tr border="none">
-<td width="50%" align="center">
   
+<tr>
+<td width="50%" align="center">
   <img  align="center"  src="https://streak-stats.demolab.com?user=shresthacodes&theme=dark-smoky&exclude_days=Sat" />
-  <br></br>
-  <img src="https://github-readme-stats.vercel.app/api?username=shresthacodes&theme=graywhite&show_icons=true"/>
 </td>
 
 <td width="50%" align="center">
