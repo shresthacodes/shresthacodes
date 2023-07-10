@@ -1,4 +1,4 @@
-<img align="right" width="350" height="350" src="https://github.com/shresthacodes/shresthacodes/assets/138806766/76283b1a-2f0c-491e-b12e-f31b8b9eb83b">
+<img align="right" width="369" height="369" src="https://github.com/shresthacodes/shresthacodes/assets/138806766/76283b1a-2f0c-491e-b12e-f31b8b9eb83b">
 <table align ="right">
 
 
