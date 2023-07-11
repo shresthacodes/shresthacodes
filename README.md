@@ -34,12 +34,16 @@
 <td width="50%" align="center">
   <img  align="center"  src="https://streak-stats.demolab.com?user=shresthacodes&theme=dark-smoky&exclude_days=Sat" />
   <br><br>
-    <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shresthacodes&layout=compact"/>
-<br><br>
+    <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shresthacodes&layout=compact"/> 
 </td>
-
+  
 <td width="50%" align="center">
- <img align ="center" src="https://leetcard.jacoblin.cool/shresthacodes?theme=unicorn&font=Noto%20Sans&ext=heatmap"/>
+ <img align ="center" src="https://leetcard.jacoblin.cool/shresthacodes?theme=unicorn&font=Noto%20Sans"/>
+  <br><br>
+  <a href="https://github.com/shresthacodes">
+ <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=shresthacodes&theme=graywhite&show_icons=true" /> 
+</a>
+ <br><br>
   </td>
 </tr>
 </table>
