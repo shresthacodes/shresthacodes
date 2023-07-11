@@ -27,11 +27,13 @@
 <tr>
 <td width="50%" align="center">
   <img  align="center"  src="https://streak-stats.demolab.com?user=shresthacodes&theme=dark-smoky&exclude_days=Sat" />
+  <br><br>
+    <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shresthacodes&layout=compact"/>
+<br><br>
 </td>
 
 <td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shresthacodes&layout=compact"/>
+ <img align ="center" src="https://leetcard.jacoblin.cool/shresthacodes?theme=unicorn&font=Noto%20Sans&ext=heatmap"/>
   </td>
 </tr>
 </table>
