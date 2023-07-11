@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning & DSA.**
 
-- 💬 Ask me about **Python, C, Web Development.**
+- 💬 Ask me about **Python, C and java.**
 
 - 📫 How to reach me **invinciblecodes@gmail.com**
 
