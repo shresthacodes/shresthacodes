@@ -1,4 +1,4 @@
-![Shrestha Raj](https://github.com/shrestharaaj/Shrestharaaj/assets/93245080/d313f5fc-118a-43e2-971b-afc5a2a48149)
+![Shrestha Raj](https://github.com/shresthacodes/shresthacodes/assets/138806766/ba3ca383-afb7-4d0f-8092-554913281fc2)
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block"> Tech enthusiast, coding wizard, and machine learning researcher. <br>Let's create something awesome together!</h2></summary>
