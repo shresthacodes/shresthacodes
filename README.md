@@ -29,7 +29,7 @@
 <!--git stats-->
 
 <table align="center">
-  
+  ![LeetCode Stats]()
 <tr>
 <td width="50%" align="center">
   <img  align="center"  src="https://streak-stats.demolab.com?user=shresthacodes&theme=dark-smoky&exclude_days=Sat" />
@@ -38,7 +38,7 @@
 </td>
   
 <td width="50%" align="center">
- <img align ="center" src="https://leetcard.jacoblin.cool/shresthacodes?theme=unicorn&font=Noto%20Sans"/>
+ <img align ="center" src="https://leetcard.jacoblin.cool/Shresthacodes?theme=dark&font=Mandali&ext=none"/>
   <br><br>
   <a href="https://github.com/shresthacodes">
  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=shresthacodes&theme=graywhite&show_icons=true" /> 
