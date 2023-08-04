@@ -29,7 +29,6 @@
 <!--git stats-->
 
 <table align="center">
-  ![LeetCode Stats]()
 <tr>
 <td width="50%" align="center">
   <img  align="center"  src="https://streak-stats.demolab.com?user=shresthacodes&theme=dark-smoky&exclude_days=Sat" />
