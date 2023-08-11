@@ -12,15 +12,15 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38F3F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Tech+enthusiast+%26+ML+researcher." alt="Typing SVG" /></a>
 
 
-- 🔭 I’m currently doing the **100DaysofCode Challenge.**
+ 🚀  I’m currently doing the **100DaysofCode Challenge.**
 
-- 🌱 I’m currently learning **Machine Learning & DSA.**
+🌱 I’m currently learning **Machine Learning & DSA.**
 
-- 💬 Ask me about **Python, C and java.**
+ 💬 Ask me about **Python, C and java.**
 
-- 📫 How to reach me **invinciblecodes@gmail.com**
+📫 How to reach me **invinciblecodes@gmail.com**
 
-- ⚡ Fun fact **I can play the piano.**
+ ⚡ Fun fact **I can play the piano.**
 
 
 </table>
