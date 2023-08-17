@@ -1,26 +1,10 @@
 ![Shrestha Raj](https://github.com/shresthacodes/shresthacodes/assets/138806766/ba3ca383-afb7-4d0f-8092-554913281fc2)
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block"> Tech enthusiast, coding wizard, and machine learning researcher. <br>Let's create something awesome together!</h2></summary>
-  </ul>
-</div>
-<img align="right" width="369" height="369" src="https://github.com/shresthacodes/shresthacodes/assets/138806766/76283b1a-2f0c-491e-b12e-f31b8b9eb83b">
-<table align ="right">
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&color=B6F7F7&width=435&lines=Yo!+Welcome+to+my+GitHub.;I'm+a+20+yr+old+tech+enthusiast%2C;exploring++different+Tech+fields." alt="Typing SVG" /></a>
+  </p>
 
 
-<h1 align="center">Hi 👋, I'm Shrestha Raj</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38F3F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Tech+enthusiast+%26+ML+researcher." alt="Typing SVG" /></a>
-
-
- 🚀  I’m currently doing the **100DaysofCode Challenge.**
-
-🌱 I’m currently learning **Machine Learning & DSA.**
-
- 💬 Ask me about **Python, C and java.**
-
-📫 How to reach me **invinciblecodes@gmail.com**
-
- ⚡ Fun fact **I can play the piano.**
 
 
 </table>
