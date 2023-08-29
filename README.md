@@ -24,7 +24,7 @@
  <img align ="center" src="https://leetcard.jacoblin.cool/Shresthacodes?theme=dark&font=Mandali&ext=none"/>
   <br><br>
   <a href="https://github.com/shresthacodes">
- <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shresthacodes&layout=compact" /> 
+ <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shresthacodes&compact=true" /> 
 </a>
  <br><br>
   </td>
