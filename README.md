@@ -1,17 +1,10 @@
 ![Shrestha Raj](https://github.com/shresthacodes/shresthacodes/assets/138806766/ba3ca383-afb7-4d0f-8092-554913281fc2)
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&color=B6F7F7&width=435&lines=Yo!+Welcome+to+my+GitHub.;I'm+a+20+yr+old+tech+enthusiast%2C;exploring++different+Tech+fields." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7AB24&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B!+I'm+Shrestha.;Welcome+to+my+GitHub+%3A))" alt="Typing SVG" /></a>
   </p>
-
-
-
-
-</table>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--git stats-->
-
 <table align="center">
 <tr>
 <td width="50%" align="center">
