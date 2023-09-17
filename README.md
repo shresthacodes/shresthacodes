@@ -1,4 +1,5 @@
-![Shrestha Raj](https://github.com/shresthacodes/shresthacodes/assets/138806766/ba3ca383-afb7-4d0f-8092-554913281fc2)
+
+![banner](https://github.com/shresthacodes/shresthacodes/assets/138806766/b15abf3b-b503-4189-895c-5a0a70e7b698)
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7AB24&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B!+I'm+Shrestha.;Welcome+to+my+GitHub+%3A))" alt="Typing SVG" /></a>
