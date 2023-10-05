@@ -14,7 +14,7 @@
 </td>
   
 <td width="50%" align="center">
- <img align ="center" src="https://leetcard.jacoblin.cool/Shresthacodes?theme=dark&font=Mandali&ext=none"/>
+ 
   <br><br>
   <a href="https://github.com/shresthacodes">
  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shresthacodes&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /> 
