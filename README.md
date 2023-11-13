@@ -1,4 +1,4 @@
-![](https://animesher.com/orig/0/92/929/9292/animesher.com_girl-notebook-me-all-day-929223.gif)
+
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7AB24&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B!+I'm+Shrestha.;Welcome+to+my+GitHub+%3A))" alt="Typing SVG" /></a>
@@ -54,4 +54,5 @@
   <p align="center">
   <img align="center" src="https://profile-counter.glitch.me/shresthacodes/count.svg" />
 </p>
+
 
