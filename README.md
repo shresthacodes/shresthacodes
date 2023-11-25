@@ -17,7 +17,7 @@ I'm currently building my portfolio. Here's what I'm currently focused on:
 
 - I'm engaged in exciting fullstack and machine learning projects.
 - I'm exploring Javascript frameworks and ML models to enhance my skill set.
-- I'm an early riser, always driven and constantly learning in the tech world.
+- I'm an tech geek, always driven and constantly learning something new everyday.
 - Stay updated with my journey on [Twitter](https://twitter.com/sthamedia).
 <br>
   <table align="center">
