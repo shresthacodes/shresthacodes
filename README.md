@@ -48,7 +48,7 @@ I'm currently building my portfolio. Here's what I'm currently focused on:
 
 ## 📫 Contact
 
- For a quick response, DM me on [Instagram](https://www.instagram.com/theshrestharaj/) or [LinkedIn](www.linkedin.com/in/shrestha-raj). 
+ For a quick response, DM me on [Instagram](https://www.instagram.com/theshrestharaj/) or [LinkedIn](https://www.linkedin.com/in/shrestha-raj/). 
  
  For professional inquiries, reach out via email at [shrestha.contact@gmail.com](mailto:shrestha.contact@gmail.com). 
  
