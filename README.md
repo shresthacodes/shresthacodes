@@ -44,7 +44,7 @@ I'm currently building my portfolio. Here's what I'm currently focused on:
 - Demon Slayer is my current favorite anime.
 - As a kid, I wanted to be an acheologist.
 - Python was my first programming language.
-- I love playing the paino.
+- I love playing the piano.
 
 ## 📫 Contact
 
