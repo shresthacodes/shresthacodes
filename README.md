@@ -32,8 +32,7 @@ I'm currently building my portfolio. Here's what I'm currently focused on:
  
   <br><br>
   <a href="https://github.com/shresthacodes">
- <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shresthacodes&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /> 
-</a>
+ <img align="center" style="margin=0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shresthacodes&layout=compact&theme=vision-friendly-dark&hide_border=false"> 
  <br><br>
   </td>
 </tr>
