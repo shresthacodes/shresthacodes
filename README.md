@@ -51,10 +51,11 @@ I'm currently building my portfolio. Here's what I'm currently focused on:
  
  For professional inquiries, reach out via email at [shrestha.contact@gmail.com](mailto:shrestha.contact@gmail.com). 
  
-## 💰 You can support me through
+<!--- ## 💰 You can support me through
 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/shresthacodes) 
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sthamedia) 
+--->
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <div id="user-content-toc">
