@@ -41,7 +41,7 @@ I'm currently building my portfolio. Here's what I'm currently focused on:
 ## ✨ Fun Facts 
 
 - Demon Slayer is my current favorite anime.
-- As a kid, I wanted to be an acheologist.
+- As a kid, I wanted to be an archaeologist.
 - Python was my first programming language.
 - I love playing the piano.
 
