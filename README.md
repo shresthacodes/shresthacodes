@@ -32,7 +32,7 @@ I'm currently building my portfolio. Here's what I'm currently focused on:
  
   <br><br>
   <a href="https://github.com/shresthacodes">
- <img align="center" style="margin=0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shresthacodes&layout=compact&theme=vision-friendly-dark&hide_border=false"> 
+ <img align="center" style="margin=0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shresthacodes&hide_progress=true"> 
  <br><br>
   </td>
 </tr>
