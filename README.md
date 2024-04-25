@@ -8,7 +8,8 @@
   </p>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Profile GIF">
 
-  <h4>Languages & Technologies I know:</h4>
+  #### 🦊 Languages & Technologies I know:
+  
   <ul>
     <li>Python | Java | Bash</li>
     <li>HTML | CSS | JavaScript</li>
@@ -24,29 +25,32 @@
     <li>I'm engaged in exciting Fullstack projects.</li>
     <li>I'm also exploring Machine learning and Artificial intellingence projects to enhance my skill set.</li>
   
-  </ul>
-
- <div align="center">
-    <img src="https://streak-stats.demolab.com?user=shresthacodes&theme=dark-smoky&exclude_days=Sat" alt="Streak Stats">
-    <br><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=shresthacodes&theme=graywhite&show_icons=true" alt="GitHub Stats">
-  </div>
-
-  <div align="center">
-    <br><br>
-    <a href="https://github.com/shresthacodes">
-      <img style="margin: 0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shresthacodes&hide_progress=true" alt="Top Languages">
-    </a>
-  </div>
-
+  </ul> 
+<table align="center">
+<tr>
+<td width="50%" align="center">
+  <img  align="center"  src="https://streak-stats.demolab.com?user=shresthacodes&theme=dark-smoky&exclude_days=Sat" />
+  <br><br>
+    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=shresthacodes&theme=graywhite&show_icons=true" /> 
+</td>
+  
+<td width="50%" align="center">
+ 
+  <br><br>
+  <a href="https://github.com/shresthacodes">
+ <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shresthacodes&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /> 
+</a>
+ <br><br>
+  </td>
+</tr>
+</table>
 
   <h2>📫 Socials</h2>
   
- - 📝 I write blogs on [https://hashnode.com/@shrestha](https://hashnode.com/@shrestha)
  - 📫 How to reach me **theshrestharaj@gmail.com**
  - ☀︎ Let's Connect on linkedin: [https://www.linkedin.com/in/shrestha-raj/](https://www.linkedin.com/in/shrestha-raj/)
    
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Profile GIF">
   <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Vistors:</h2></summary>
